@@ -1,4 +1,4 @@
-# HumanDispersalModel
+# Human Dispersal Model
 This is the sourcecode for the doctoral thesis "Development and Application of a Climate-driven Human Dispersal Model" submitted at the University of Cologne.
 It consists of the actual dispersal model, written in Fortran, and additional preprocessing and postprocessing scripts, written in Python.
 
